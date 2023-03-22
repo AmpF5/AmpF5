@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **.Net, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AmpF5](https://github.com/AmpF5)
+- 👨‍💻 All of my projects are available at [https://github.com/AmpF5](https://github.com/AmpF5?tab=repositories)
 
 - 📫 How to reach me **mateusz.kurzyna0@gmail.com**
 
