@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **mateusz.kurzyna0@gmail.com**
 
-- ⚡ Fun fact ***meow***
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mateusz-kurzyna-2bb0aa223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusz-kurzyna-2bb0aa223" height="30" width="40" /></a>
