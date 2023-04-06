@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **.Net, Python**
 
+- 🔭 I’m currently working on [CryptoFutures API](https://github.com/AmpF5/CryptoFutures.API)
+
 - 👨‍💻 All of my projects are available at [https://github.com/AmpF5](https://github.com/AmpF5?tab=repositories)
 
 - 📫 How to reach me **mateusz.kurzyna0@gmail.com**
