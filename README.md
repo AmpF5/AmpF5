@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">A backend developer from Poland</h3>
+<h3 align="center">A backend/fullstack developer from Poland</h3>
 
-- 🌱 I’m currently learning **.Net, Python**
+- 🌱 I’m currently learning **.Net, Python, Angular, Linux**
 
-- 🔭 I’m currently working on [Fullstack Wiki](https://github.com/AmpF5/FullstackWiki)
+- 🔭 I’m currently working on [Fullstack Wiki](https://github.com/AmpF5/quiz-maker)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmpF5](https://github.com/AmpF5?tab=repositories)
 
