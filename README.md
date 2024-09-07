@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **.Net, Python, Angular, Linux**
 
-- 🔭 I’m currently working on [Quiz Maker](https://github.com/AmpF5/quiz-maker)
+- 🔭 I’m currently working on [Tons of Damage](https://github.com/AmpF5/tons-of-damage) and [QBee](https://github.com/AmpF5/qbee)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmpF5](https://github.com/AmpF5?tab=repositories)
 
