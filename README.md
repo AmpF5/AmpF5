@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="center">A backend/fullstack developer from Poland</h3>
 
-- 🌱 I’m currently learning **.Net, Python, Angular, Linux**
+- 🌱 I’m currently learning **.NET, Go, Python, Linux**
 
 - 🔭 I’m currently working on [Tons of Damage](https://github.com/AmpF5/tons-of-damage) and [QBee](https://github.com/AmpF5/qbee)
 
